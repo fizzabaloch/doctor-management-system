@@ -1,0 +1,1 @@
+This project was designed on the idea of helping people to connect with health care providers, people from all over the nation can easily get an appointment booked with their doctor, furthermore, can check availabilty and timings. Doctors can send their application to become a part of online doctor's management system, which will be under the health department or certain NGO.
